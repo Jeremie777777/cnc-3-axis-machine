@@ -9,6 +9,20 @@ Ce dépôt documente la conception d’une fraiseuse CNC artisanale à trois axe
 - **Matériel :** des composants majeurs ont été acquis. La vidéo disponible montre une partie du matériel, mais ne permet pas d’en confirmer toutes les références ni les caractéristiques.
 - **Fabrication :** la machine complète n’a pas encore été construite. L’assemblage et la validation du prototype restent à réaliser.
 
+## Vues de la conception Fusion 360
+
+Les images ci-dessous montrent différentes vues du modèle CAO. Elles illustrent la conception et ne représentent pas une machine assemblée.
+
+![Vue générale du modèle Fusion 360](Fusion%20view.png)
+
+![Vue de dessus de la machine](Machine%20vue%20de%20dessus.png)
+
+![Vue de face de la machine](Machine%20vue%20de%20face.png)
+
+![Vue de droite de la machine](Machine%20vue%20de%20droite.png)
+
+![Vue en perspective de la machine](Machine%20vue%20en%20perspective.png)
+
 ## Démarche
 
 1. Concevoir la structure et les composants de la machine en CAO.
@@ -22,11 +36,9 @@ Les étapes d’assemblage et d’essais sont à venir ; ce dépôt ne prétend 
 
 Avant cette machine, j’ai réalisé un petit traceur artisanal pour me familiariser avec les commandes GRBL. Il s’agit d’un montage distinct, qui m’a servi d’apprentissage et ne représente pas la fraiseuse 3 axes présentée ici.
 
-## Contenu prévu
+## Contenu du dépôt
 
-- exports et captures de la conception Fusion 360 ;
-- nomenclature des composants avec références et caractéristiques vérifiées ;
-- photos du matériel et de l’assemblage ;
-- notes de réglage, essais et améliorations du prototype.
-
-Les éléments seront ajoutés au fur et à mesure qu’ils pourront être documentés et partagés.
+- captures de la conception Fusion 360 ;
+- nomenclature des composants avec références et caractéristiques vérifiées (à compléter) ;
+- photos du matériel et de l’assemblage à venir ;
+- notes de réglage, essais et améliorations du prototype à venir.
