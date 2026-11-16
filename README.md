@@ -11,7 +11,7 @@ Ce dépôt documente la conception d’une fraiseuse CNC artisanale à trois axe
 
 ## Visualiser l’assemblage dans Autodesk Fusion 360
 
-Le lien vers la visualisation web de l’assemblage sera ajouté ici : **https://a360.co/4swDDnh**.
+[Ouvrir l’assemblage dans Autodesk Fusion 360](https://a360.co/4swDDnh)
 
 ## Vues de la conception Fusion 360
 
@@ -46,14 +46,15 @@ Avant cette machine, j’ai réalisé un petit traceur artisanal pour me familia
 
 ## Matériels disponibles
 
-La vidéo ci-dessous présente les matériels acquis pour la mise au point du premier prototype. 
+La vidéo ci-dessous présente les matériels acquis pour la mise au point du premier prototype. Cette version allégée (720p) est intégrée au README pour faciliter sa lecture. Les références et caractéristiques détaillées des composants restent à vérifier.
 
-[Regarder la vidéo de la liste du matériel](Pictures/Liste%20du%20mat%C3%A9riel.mp4)
+https://github.com/user-attachments/assets/c9553578-1e53-4756-9564-c39ebf390d3d
+
 
 ## Contenu du dépôt
 
 - captures de la conception Fusion 360 ;
 - images du mini traceur utilisé pour la prise en main de GRBL ;
-- vidéo de présentation des matériels disponibles ;
+- vidéo des matériels disponibles ;
 - nomenclature des composants avec références et caractéristiques vérifiées (à compléter) ;
 - photos de l’assemblage, résultats d’essais et améliorations du prototype à ajouter après réalisation.
