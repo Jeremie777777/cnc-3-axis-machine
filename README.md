@@ -13,8 +13,15 @@ Ce dépôt documente la conception d’une fraiseuse CNC artisanale à trois axe
 
 Les images ci-dessous montrent différentes vues du modèle CAO. Elles illustrent la conception et ne représentent pas une machine assemblée.
 
-![Vue en perspective de l'assemblage](Pictures/Fusion%20view.png)
+![Vue générale du modèle Fusion 360](Pictures/Fusion%20view.png)
 
+![Vue de dessus de la machine](Pictures/Machine%20vue%20de%20dessus.png)
+
+![Vue de face de la machine](Pictures/Machine%20vue%20de%20face.png)
+
+![Vue de droite de la machine](Pictures/Machine%20vue%20de%20droite.png)
+
+![Vue en perspective de la machine](Pictures/Machine%20vue%20en%20perspective.png)
 ## Démarche
 
 1. Concevoir la structure et les composants de la machine en CAO.
