@@ -11,7 +11,7 @@ Ce dépôt documente la conception d’une fraiseuse CNC artisanale à trois axe
 
 ## Visualiser l’assemblage dans Autodesk Fusion 360
 
-Le lien vers la visualisation web de l’assemblage sera ajouté ici : **lien Autodesk à ajouter**.
+Le lien vers la visualisation web de l’assemblage sera ajouté ici : **https://a360.co/4swDDnh**.
 
 ## Vues de la conception Fusion 360
 
