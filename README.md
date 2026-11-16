@@ -1,7 +1,7 @@
 # Fraiseuse CNC 3 axes — conception et prototype en préparation
 
 
-Ce dépôt documente la conception d’une fraiseuse CNC artisanale à trois axes et la préparation de son premier prototype. Le projet vise un usage pédagogique autour de la fabrication assistée par ordinateur.
+Ce dépôt documente la conception d’une fraiseuse CNC artisanale à trois axes et la préparation de son premier prototype. 
 
 
 ## Dimensions prévues
