@@ -46,7 +46,7 @@ Avant cette machine, j’ai réalisé un petit traceur artisanal pour me familia
 
 ## Matériels disponibles
 
-La vidéo ci-dessous présente les matériels acquis pour la mise au point du premier prototype. Elle ne remplace pas encore une nomenclature détaillée avec les références et caractéristiques vérifiées.
+La vidéo ci-dessous présente les matériels acquis pour la mise au point du premier prototype. 
 
 [Regarder la vidéo de la liste du matériel](Pictures/Liste%20du%20mat%C3%A9riel.mp4)
 
