@@ -12,10 +12,9 @@ Ce dépôt documente la conception d’une fraiseuse CNC artisanale à trois axe
 
 ## Limites et évolutions envisagées
 
-La conception prévoit deux axes ronds de **8 mm de diamètre** pour guider le portique mobile de l’axe Y. Cette faible section présente un risque de flexion sous le poids du portique et les efforts d’usinage ; la déformation réelle dépendra notamment de la portée, du mode de support et des charges.
+La conception prévoit deux axes ronds de **8 mm de diamètre** pour guider le portique mobile de l’axe Y. Cette faible section présente un risque de flexion sous le poids du portique.
 
-Pour améliorer la rigidité, les pistes envisagées sont de passer à des axes de **12 mm de diamètre** ou d’utiliser des **rails de guidage linéaire avec chariots à billes**. Le choix final devra être validé selon la géométrie et les efforts prévus.
-
+Pour améliorer la rigidité, les pistes envisagées sont de passer à des axes de **12 mm de diamètre** ou mieux, d’utiliser des **rails de guidage linéaire avec chariots à billes** sur tout les axes. C'est la meilleure option.
 ![Rails de guidage linéaire et chariots à billes (illustration)](https://imtekmotion.com/wp-content/uploads/2025/11/IMTEK-linear-ball-guides-group.png)
 
 Image : [IMTEK — comparaison des guides linéaires](https://imtekmotion.com/linear-guides-vs-linear-bushings-comparison/)
