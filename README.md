@@ -73,9 +73,7 @@ Les photos et la vidéo ci-dessous montrent les composants disponibles pour pré
 
 Les références exactes et les caractéristiques de ces pièces restent à vérifier. Les pilotes de moteurs pas à pas ne sont pas encore acquis ; la commande et les autres éléments électriques restent à définir.
 
-<video src="Materiels%20disponibles.mp4" controls width="720"></video>
-
-[Ouvrir ou télécharger la vidéo des matériels disponibles](Materiels%20disponibles.mp4)
+[Lire ou télécharger la vidéo des matériels disponibles](https://raw.githubusercontent.com/Jeremie777777/cnc-3-axis-machine/main/Materiels%20disponibles.mp4)
 
 ### Photos des composants
 
