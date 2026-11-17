@@ -61,9 +61,7 @@ Avant cette machine, j’ai réalisé un petit traceur artisanal pour me familia
 
 ## Matériels disponibles
 
-Les photos et la vidéo ci-dessous montrent les composants disponibles pour préparer le premier prototype. Les dimensions exactes, références et caractéristiques électriques restent à relever avant la conception finale et le câblage.
-
-Éléments identifiables sur les photos :
+Les photos et la vidéo ci-dessous montrent les composants disponibles pour préparer le premier prototype. 
 
 - vis trapézoïdales T8 et écrous/supports associés ;
 - arbres de guidage de 8 mm et paliers linéaires SCS8UU ;
@@ -71,7 +69,6 @@ Les photos et la vidéo ci-dessous montrent les composants disponibles pour pré
 - supports de vis à roulement, avec des étiquettes visibles « KP08 horizontal » et « KP08 vertical » ;
 - adaptateur portant l’indication ER11, dont la compatibilité reste à confirmer.
 
-Les références exactes et les caractéristiques de ces pièces restent à vérifier. Les pilotes de moteurs pas à pas ne sont pas encore acquis ; la commande et les autres éléments électriques restent à définir.
 
 [Lire ou télécharger la vidéo des matériels disponibles](https://raw.githubusercontent.com/Jeremie777777/cnc-3-axis-machine/main/Materiels%20disponibles.mp4)
 
